@@ -1,0 +1,147 @@
+.button h3 {
+  color: white; }
+
+.page-header h1 h1 {
+  font-size: 5rem !important; }
+
+.button {
+  background-color: #72D61D;
+  width: 39%;
+  text-align: center; }
+
+#info-row {
+  text-align: center;
+  font-size: 2rem;
+  min-height: 210px; }
+
+#img-row {
+  min-height: 450px !important;
+  background-position: center;
+  position: relative;
+  background-repeat: no-repeat; }
+
+.button.fat-button:hover {
+  top: auto !important;
+  background-color: #581845;
+  opacity: 0.97;
+  -webkit-box-shadow: 0px 0px #7A8BA3;
+  -moz-box-shadow: 0px 0px #7A8BA3;
+  box-shadow: 0px 0px #7A8BA3; }
+
+a:focus, a:hover {
+  text-decoration: none !important; }
+
+.overlay {
+  background: transparent;
+  position: relative;
+  width: 100%;
+  height: 350px;
+  /* your iframe height */
+  top: 350px;
+  /* your iframe height */
+  margin-top: -350px;
+  /* your iframe height */ }
+
+#body-wrapper .fa-ul {
+  font-size: 2.5rem;
+  margin-top: 20px; }
+
+.fa-li {
+  color: #72D61D; }
+
+h1 {
+  text-align: center; }
+
+#phone-button {
+  position: absolute;
+  bottom: 130px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto; }
+
+#email-button {
+  position: absolute;
+  bottom: 70px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto; }
+
+#find-button {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto; }
+
+#opening-hours * {
+  font-size: 2.5rem;
+  text-align: center; }
+
+@media screen and (max-width: 768px) {
+  #info-row * {
+    font-size: 1.6rem; }
+
+  #img-row {
+    min-height: 300px !important; }
+
+  #body-wrapper .fa-ul {
+    font-size: 1.9rem;
+    margin-top: 20px; }
+
+  h2, h3 {
+    font-size: 2rem !important; }
+
+  #opening-hours * {
+    font-size: 1.9rem;
+    text-align: left; }
+
+  #phone-button {
+    position: absolute;
+    bottom: 130px;
+    width: 82%;
+    display: block; }
+
+  #email-button {
+    position: absolute;
+    bottom: 70px;
+    width: 44%;
+    display: inline-block;
+    float: left;
+    margin-left: 5%; }
+
+  #find-button {
+    position: absolute;
+    bottom: 10px;
+    width: 44%;
+    display: inline-block;
+    float: right;
+    margin-right: 5%; }
+
+  .button {
+    position: relative !important;
+    bottom: 0px !important; } }
+#fb-review .fa {
+  color: #4E8AFF; }
+
+#fb-review .fa-quote-left {
+  font-size: 4rem; }
+
+#fb-review .row {
+  min-height: 50px !important;
+  text-align: left; }
+
+.circular-image-2 {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  background: url("../images/index/kwhite.jpg") no-repeat;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8); }
+
+/*# sourceMappingURL=picture-framing-sydney.css.map */

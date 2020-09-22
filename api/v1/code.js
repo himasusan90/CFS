@@ -1,0 +1,3 @@
+const frame_code_data = { "message": "OK", "http_code": 200, "data": { "id": 1338, "code": "414G", "width": 1.75, "depth": 2, "rebate": 0.5, "description": "Gold", "rate": 4, "min": 10, "max": 70, "category": "5-Golds", "material": "Wood", "thumb_image": "\/public/static/images\/frame_images\/large\/lrg_cross_frame_1338.jpg", "tile_image": "\/public/static/images\/frame_images\/large\/top_frame_1338.jpg" } }
+
+module.exports = frame_code_data

@@ -1,0 +1,149 @@
+@font-face {
+  font-family:"Arimo Regular";
+  src:url("../../fonts/Arimo-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Arimo Italic";
+  src:url("../../fonts/Arimo-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Arimo Bold";
+  src:url("../../fonts/Arimo-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Amatic Bold";
+  src:url("../../fonts/Amatic%20Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Amatic Regular";
+  src:url("../../fonts/Amatic%20Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Dancing Script Regular";
+  src:url("../../fonts/DancingScript-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Arial Bold";
+  src:url("../../fonts/Arial-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Arimo BoldItalic";
+  src:url("../../fonts/Arimo-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Dancing Script Bold";
+  src:url("../../fonts/DancingScript-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Indie Flower Regular";
+  src:url("../../fonts/IndieFlower-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Monoton Regular";
+  src:url("../../fonts/Monoton-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Passion One Regular";
+  src:url("../../fonts/PassionOne-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Passion One Bold";
+  src:url("../../fonts/PassionOne-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Permanent Marker Regular";
+  src:url("../../fonts/PermanentMarker-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Raleway Regular";
+  src:url("../../fonts/Raleway-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Raleway Bold";
+  src:url("../../fonts/Raleway-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Raleway BoldItalic";
+  src:url("../../fonts/Raleway-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Raleway Italic";
+  src:url("../../fonts/Raleway-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Sacramento Regular";
+  src:url("../../fonts/Sacramento-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Tangerine Regular";
+  src:url("../../fonts/Tangerine-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Tangerine Bold";
+  src:url("../../fonts/Tangerine-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Times New Roman Regular";
+  src:url("../../fonts/times.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Arial Italic";
+  src:url("../../fonts/Arial-Italic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Arial Regular";
+  src:url("../../fonts/Arial-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Arial BoldItalic";
+  src:url("../../fonts/Arial-BoldItalic.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Shelley Andante Regular";
+  src:url("../../fonts/ShelleyAndanteBT.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Shelley Allegro Regular";
+  src:url("../../fonts/ShelleyAllegroBT.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Times New Roman Bold";
+  src:url("../../fonts/timesbd.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Times New Roman BoldItalic";
+  src:url("../../fonts/timesbi.ttf") format("truetype");
+}
+
+@font-face {
+  font-family:"Times New Roman Italic";
+  src:url("../../fonts/timesi.ttf") format("truetype");
+}
