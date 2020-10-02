@@ -37,7 +37,7 @@ app.post('/api/gallery/chunk', (req, res) => {
 
 //under progress
 app.post('/api/gallery/chunk/complete', (req, res) => {
-    res.send({ "image": { "id": "4bad7cba-e992-4c14-9fcb-3b01f7d67efd", "name": "pp.jpeg", "size": 40429, "width": 548, "height": 548, "aspect_ratio": 1, "created_at": { "date": "2020-07-25 07:40:46.000000", "timezone_type": 3, "timezone": "" }, "images": { "thumbnail": "\/images\/uploads\/thumbnail\/4bad7cba-e992-4c14-9fcb-3b01f7d67efd.jpg", "small": "\/images\/uploads\/small\/4bad7cba-e992-4c14-9fcb-3b01f7d67efd.jpg", "medium": "\/images\/uploads\/medium\/4bad7cba-e992-4c14-9fcb-3b01f7d67efd.jpg", "large": "\/images\/uploads\/large\/4bad7cba-e992-4c14-9fcb-3b01f7d67efd.jpg" } } })
+    res.send({ "image": { "id": "4bad7cba-e992-4c14-9fcb-3b01f7d67efd", "name": "pp.jpeg", "size": 40429, "width": 548, "height": 548, "aspect_ratio": 1, "created_at": { "date": "2020-07-25 07:40:46.000000", "timezone_type": 3, "timezone": "" }, "images": { "thumbnail": "\/public\/static\/images\/uploads\/thumbnail\/4bad7cba-e992-4c14-9fcb-3b01f7d67efd.jpg", "small": "\/public\/static\/images\/uploads\/small\/4bad7cba-e992-4c14-9fcb-3b01f7d67efd.jpg", "medium": "\/images\/uploads\/medium\/4bad7cba-e992-4c14-9fcb-3b01f7d67efd.jpg", "large": "\/public/\static\/images\/uploads\/large\/4bad7cba-e992-4c14-9fcb-3b01f7d67efd.jpg" } } })
 })
 
 app.delete('/api/gallery/image/:id', async (req, res) => {

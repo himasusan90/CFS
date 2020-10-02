@@ -2127,9 +2127,11 @@ webpackJsonp(
                                                     r = new c.a(i);
                                                 (t.cancel_token = r.cancel),
                                                     r.on("fileAdded", function (t, e) {
-                                                        o.a.post("/api/gallery/chunk/init", { file_name: t.file.name, file_size: t.size, chunks: t.chunks.length }).then(function (t) {
+                                                        o.a.post("/api/gallery/chunk/init", { file_name: t.file.name, file_size: t.size, chunks: t.chunks.length }).then(function (t,r) {
                                                             (n = t.data.request_id), (i.query = { request_id: n }), r.upload();
-                                                        });
+                                                        }).catch(function (e){
+                                                            
+                                                        })
                                                     }),
                                                     r.on("fileProgress", function (e, a, n, i) {
                                                         t.progress = t.is_uploading ? Math.round(100 * e.progress()) : 0;
